@@ -1,16 +1,14 @@
-### Hi there 👋
+[![bg][banner]][linkedin]
 
-<!--
-**pdthomson/pdthomson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p id="socialIcons" align="center">
+<a href="https://www.linkedin.com/in/parker-thomson-a15a68146/" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
+    </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[banner]:https://user-images.githubusercontent.com/90064385/193717425-84d5efa0-a49d-46f6-9d31-f72a02e8b59a.jpg
+
+
+[linkedin]:https://www.linkedin.com/in/parker-thomson-a15a68146/
