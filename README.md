@@ -2,7 +2,7 @@
 
 
 <p id="socialIcons" align="center">
-<a href="https://www.linkedin.com/in/parker-thomson-a15a68146/" alt="LinkedIn">
+    <a href="https://www.linkedin.com/in/parker-thomson-a15a68146/" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
     </a>
 </p>
